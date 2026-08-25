@@ -1,0 +1,44 @@
+{
+  "title": "Propiedades",
+  "subtitle": "Administra tus propiedades y consulta su ocupación de un vistazo.",
+  "new": "Nueva propiedad",
+  "edit": "Editar propiedad",
+  "fields": {
+    "name": "Nombre",
+    "address": "Dirección"
+  },
+  "card": {
+    "units": "unidades",
+    "occupied": "ocupadas",
+    "available": "disponibles"
+  },
+  "empty": {
+    "title": "Todavía no tienes propiedades",
+    "body": "Crea tu primera propiedad para empezar a registrar unidades e inquilinos.",
+    "cta": "Crear propiedad"
+  },
+  "deleteConfirm": {
+    "title": "¿Eliminar esta propiedad?",
+    "body": "Se eliminará \"{{name}}\" junto con la información asociada. Esta acción no se puede deshacer."
+  },
+  "detail": {
+    "back": "Propiedades",
+    "summary": {
+      "units": "Unidades",
+      "tenants": "Inquilinos",
+      "pendingAmount": "Pendiente de cobro"
+    },
+    "unitsTitle": "Unidades",
+    "newUnit": "Nueva unidad",
+    "unitsEmpty": {
+      "title": "Esta propiedad todavía no tiene unidades",
+      "body": "Agrega una unidad para poder asignarle inquilinos y medidores.",
+      "cta": "Crear unidad"
+    }
+  },
+  "unitForm": {
+    "name": "Número / nombre de unidad",
+    "namePlaceholder": "Habitación 101",
+    "status": "Estado"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Units",
+  "subtitle": "All units across your properties, with occupancy and assigned tenant.",
+  "columns": {
+    "unit": "Unit",
+    "property": "Property",
+    "status": "Status",
+    "tenant": "Tenant",
+    "pendingCharges": "Pending charges"
+  },
+  "noTenant": "No tenant",
+  "empty": {
+    "title": "No units registered",
+    "body": "Create units from each property's detail page."
+  },
+  "detail": {
+    "back": "Back",
+    "tenantsTitle": "Tenants",
+    "metersTitle": "Meters",
+    "chargesTitle": "Pending charges",
+    "newTenant": "New tenant",
+    "tenantsEmpty": {
+      "title": "This unit doesn't have any tenants yet",
+      "body": "Register the current tenant to start generating charges.",
+      "cta": "Register tenant"
+    },
+    "metersEmpty": "This unit has no internal meters assigned.",
+    "chargesEmpty": "There are no pending charges for this unit."
+  }
+}

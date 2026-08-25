@@ -1,0 +1,23 @@
+{
+  "title": "Meters",
+  "subtitle": "Electricity and water meters by property and unit.",
+  "columns": {
+    "code": "Code",
+    "type": "Type",
+    "provider": "Provider",
+    "unit": "Measurement unit",
+    "property": "Property",
+    "location": "Unit",
+    "mode": "Mode"
+  },
+  "generalLocation": "General meter",
+  "empty": {
+    "title": "No meters registered",
+    "body": "Meters are used to calculate each tenant's consumption."
+  },
+  "viewReadings": "View readings",
+  "unavailable": {
+    "title": "Meters module unavailable",
+    "body": "The backend doesn't expose the /api/meters endpoints yet. This screen is ready to connect as soon as they exist."
+  }
+}

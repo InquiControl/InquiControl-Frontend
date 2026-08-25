@@ -1,0 +1,44 @@
+{
+  "title": "Properties",
+  "subtitle": "Manage your properties and check occupancy at a glance.",
+  "new": "New property",
+  "edit": "Edit property",
+  "fields": {
+    "name": "Name",
+    "address": "Address"
+  },
+  "card": {
+    "units": "units",
+    "occupied": "occupied",
+    "available": "available"
+  },
+  "empty": {
+    "title": "You don't have any properties yet",
+    "body": "Create your first property to start adding units and tenants.",
+    "cta": "Create property"
+  },
+  "deleteConfirm": {
+    "title": "Delete this property?",
+    "body": "\"{{name}}\" and its related information will be deleted. This action cannot be undone."
+  },
+  "detail": {
+    "back": "Properties",
+    "summary": {
+      "units": "Units",
+      "tenants": "Tenants",
+      "pendingAmount": "Pending collection"
+    },
+    "unitsTitle": "Units",
+    "newUnit": "New unit",
+    "unitsEmpty": {
+      "title": "This property doesn't have any units yet",
+      "body": "Add a unit so you can assign tenants and meters to it.",
+      "cta": "Create unit"
+    }
+  },
+  "unitForm": {
+    "name": "Unit number / name",
+    "namePlaceholder": "Room 101",
+    "status": "Status"
+  }
+}

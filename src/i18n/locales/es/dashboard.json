@@ -1,0 +1,50 @@
+{
+  "greeting": {
+    "morning": "Buenos días, {{name}}",
+    "afternoon": "Buenas tardes, {{name}}",
+    "evening": "Buenas noches, {{name}}"
+  },
+  "subtitle": "Resumen de tus propiedades",
+  "kpis": {
+    "properties": "Propiedades",
+    "occupiedUnits": "Unidades ocupadas",
+    "availableUnits": "Unidades disponibles",
+    "activeTenants": "Inquilinos activos"
+  },
+  "financial": {
+    "title": "Estado financiero",
+    "totalPending": "Pendiente de cobro",
+    "totalCollected": "Total cobrado",
+    "pendingBills": "cargo(s) sin pagar",
+    "recentPayments": "Pagos recientes"
+  },
+  "services": {
+    "title": "Servicios",
+    "recentBills": "Últimas facturas",
+    "noBills": "Aún no hay facturas registradas."
+  },
+  "alerts": {
+    "title": "Alertas",
+    "billsDueSoon": "{{count}} factura(s) vencen en los próximos 7 días",
+    "pendingCharges": "{{count}} cargo(s) pendientes de cobro",
+    "noAlerts": "Todo al día. No hay alertas pendientes."
+  },
+  "quickActions": {
+    "title": "Acciones rápidas",
+    "newProperty": "Nueva propiedad",
+    "registerReading": "Registrar lectura",
+    "registerBill": "Registrar factura",
+    "registerPayment": "Registrar pago"
+  },
+  "recentPaymentsTable": {
+    "date": "Fecha",
+    "charge": "Cargo",
+    "amount": "Monto"
+  },
+  "recentBillsTable": {
+    "period": "Periodo",
+    "service": "Servicio",
+    "consumption": "Consumo",
+    "amount": "Monto"
+  }
+}

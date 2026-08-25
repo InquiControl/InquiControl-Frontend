@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "InquiControl",
+    "tagline": "Rental property control"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "properties": "Properties",
+    "units": "Units",
+    "tenants": "Tenants",
+    "meters": "Meters",
+    "readings": "Meter readings",
+    "utilityBills": "Utility bills",
+    "charges": "Charges",
+    "payments": "Payments",
+    "collapse": "Collapse menu",
+    "expand": "Expand menu"
+  },
+  "actions": {
+    "save": "Save",
+    "saveChanges": "Save changes",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "close": "Close",
+    "back": "Back",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "viewDetail": "View detail",
+    "retry": "Retry",
+    "seeAll": "See all",
+    "search": "Search"
+  },
+  "status": {
+    "PENDING": "Pending",
+    "PAID": "Paid",
+    "ACTIVE": "Active",
+    "INACTIVE": "Inactive",
+    "AVAILABLE": "Available",
+    "OCCUPIED": "Occupied"
+  },
+  "serviceType": {
+    "ELECTRICITY": "Electricity",
+    "WATER": "Water"
+  },
+  "meterMode": {
+    "shared": "Shared",
+    "individual": "Individual"
+  },
+  "feedback": {
+    "loading": "Loading…",
+    "saving": "Saving…",
+    "networkError": "Could not connect to the server.",
+    "genericError": "Something went wrong. Please try again.",
+    "sessionExpired": "Your session expired. Please sign in again.",
+    "confirmDeleteTitle": "Delete this record?",
+    "confirmDeleteBody": "This action cannot be undone.",
+    "unsavedChanges": "You have unsaved changes."
+  },
+  "emptyState": {
+    "defaultTitle": "Nothing here yet",
+    "defaultBody": "Once you add data, it will show up here."
+  },
+  "language": {
+    "label": "Language",
+    "es": "Español",
+    "en": "English"
+  },
+  "table": {
+    "actions": "Actions"
+  }
+}

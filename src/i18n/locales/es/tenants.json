@@ -1,0 +1,33 @@
+{
+  "title": "Inquilinos",
+  "subtitle": "Consulta a tus inquilinos, su unidad y su situación de pago.",
+  "columns": {
+    "name": "Nombre",
+    "unit": "Unidad",
+    "status": "Estado",
+    "pendingCharges": "Cargos pendientes",
+    "paymentsMade": "Pagos realizados"
+  },
+  "empty": {
+    "title": "No hay inquilinos registrados",
+    "body": "Registra inquilinos desde el detalle de cada unidad."
+  },
+  "form": {
+    "name": "Nombre",
+    "lastname": "Apellido",
+    "dni": "DNI",
+    "phone": "Teléfono",
+    "startDate": "Fecha de inicio",
+    "endDate": "Fecha de fin (opcional)",
+    "status": "Estado"
+  },
+  "detail": {
+    "back": "Volver",
+    "personalInfo": "Información personal",
+    "unitInfo": "Unidad",
+    "chargeHistory": "Historial de cargos",
+    "paymentHistory": "Historial de pagos",
+    "chargesEmpty": "Este inquilino todavía no tiene cargos.",
+    "paymentsEmpty": "Este inquilino todavía no registra pagos."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Unidades",
+  "subtitle": "Todas las unidades de tus propiedades, con su ocupación e inquilino asignado.",
+  "columns": {
+    "unit": "Unidad",
+    "property": "Propiedad",
+    "status": "Estado",
+    "tenant": "Inquilino",
+    "pendingCharges": "Cargos pendientes"
+  },
+  "noTenant": "Sin inquilino",
+  "empty": {
+    "title": "No hay unidades registradas",
+    "body": "Crea unidades desde el detalle de cada propiedad."
+  },
+  "detail": {
+    "back": "Volver",
+    "tenantsTitle": "Inquilinos",
+    "metersTitle": "Medidores",
+    "chargesTitle": "Cargos pendientes",
+    "newTenant": "Nuevo inquilino",
+    "tenantsEmpty": {
+      "title": "Esta unidad todavía no tiene inquilinos",
+      "body": "Registra al inquilino actual para empezar a generar cargos.",
+      "cta": "Registrar inquilino"
+    },
+    "metersEmpty": "Esta unidad no tiene medidores internos asociados.",
+    "chargesEmpty": "No hay cargos pendientes para esta unidad."
+  }
+}

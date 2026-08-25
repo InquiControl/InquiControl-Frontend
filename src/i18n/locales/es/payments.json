@@ -1,0 +1,30 @@
+{
+  "title": "Pagos",
+  "subtitle": "Cada cargo se paga una sola vez, por el importe completo.",
+  "registerTitle": "Registrar pago",
+  "selectCharge": "Cargo pendiente",
+  "selectChargePlaceholder": "Selecciona un cargo",
+  "amountLabel": "Monto a pagar",
+  "singlePaymentNotice": "Este cargo debe pagarse en un único pago. El monto no se puede modificar.",
+  "date": "Fecha de pago",
+  "notes": "Notas (opcional)",
+  "submit": "Registrar pago",
+  "submitting": "Registrando…",
+  "success": "Pago registrado correctamente. El cargo #{{id}} pasó a pagado.",
+  "history": "Historial de pagos",
+  "columns": {
+    "id": "#",
+    "charge": "Cargo",
+    "date": "Fecha",
+    "amount": "Monto",
+    "notes": "Notas"
+  },
+  "errors": {
+    "mustSelectCharge": "Selecciona un cargo pendiente."
+  },
+  "empty": {
+    "title": "Aún no se registraron pagos",
+    "body": "Los pagos aparecerán aquí una vez que registres el primero.",
+    "noPendingCharges": "No hay cargos pendientes por pagar en este momento."
+  }
+}

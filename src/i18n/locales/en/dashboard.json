@@ -1,0 +1,50 @@
+{
+  "greeting": {
+    "morning": "Good morning, {{name}}",
+    "afternoon": "Good afternoon, {{name}}",
+    "evening": "Good evening, {{name}}"
+  },
+  "subtitle": "Overview of your properties",
+  "kpis": {
+    "properties": "Properties",
+    "occupiedUnits": "Occupied units",
+    "availableUnits": "Available units",
+    "activeTenants": "Active tenants"
+  },
+  "financial": {
+    "title": "Financial status",
+    "totalPending": "Pending collection",
+    "totalCollected": "Total collected",
+    "pendingBills": "unpaid charge(s)",
+    "recentPayments": "Recent payments"
+  },
+  "services": {
+    "title": "Services",
+    "recentBills": "Latest bills",
+    "noBills": "No bills registered yet."
+  },
+  "alerts": {
+    "title": "Alerts",
+    "billsDueSoon": "{{count}} bill(s) due in the next 7 days",
+    "pendingCharges": "{{count}} charge(s) pending collection",
+    "noAlerts": "All caught up. No pending alerts."
+  },
+  "quickActions": {
+    "title": "Quick actions",
+    "newProperty": "New property",
+    "registerReading": "Register reading",
+    "registerBill": "Register bill",
+    "registerPayment": "Record payment"
+  },
+  "recentPaymentsTable": {
+    "date": "Date",
+    "charge": "Charge",
+    "amount": "Amount"
+  },
+  "recentBillsTable": {
+    "period": "Period",
+    "service": "Service",
+    "consumption": "Consumption",
+    "amount": "Amount"
+  }
+}

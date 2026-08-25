@@ -1,0 +1,57 @@
+{
+  "title": "Utility bills",
+  "subtitle": "Register electricity or water bills and generate proportional charges per tenant.",
+  "new": "New bill",
+  "filters": {
+    "service": "Service",
+    "period": "Period",
+    "property": "Property",
+    "status": "Status",
+    "all": "All",
+    "allServices": "All services",
+    "allProperties": "All properties"
+  },
+  "columns": {
+    "period": "Period",
+    "service": "Service",
+    "provider": "Provider",
+    "consumption": "Consumption",
+    "amount": "Amount",
+    "dueDate": "Due date",
+    "status": "Status"
+  },
+  "form": {
+    "property": "Property",
+    "type": "Service type",
+    "period": "Period (YYYY-MM)",
+    "consumption": "Consumption",
+    "totalAmount": "Total amount (S/)",
+    "previousReading": "Previous reading",
+    "currentReading": "Current reading",
+    "dueDate": "Due date",
+    "meterCode": "Meter code",
+    "supplyNumber": "Supply number",
+    "provider": "Provider",
+    "submit": "Create bill"
+  },
+  "detail": {
+    "title": "Bill detail",
+    "breakdown": "Amount breakdown",
+    "consumptionAmount": "Consumption charge",
+    "fixedCharge": "Fixed charge",
+    "additionalCharges": "Additional charges",
+    "taxAmount": "Taxes",
+    "lateFee": "Late fee",
+    "total": "Total"
+  },
+  "generateCharges": "Generate charges",
+  "generating": "Generating…",
+  "alreadyGenerated": "Charges for this bill have already been generated",
+  "generatedSuccess": "Charges generated for {{count}} tenant(s), totaling {{amount}}.",
+  "createdSuccess": "Bill created successfully.",
+  "empty": {
+    "title": "No bills registered",
+    "body": "Create a bill so you can calculate proportional charges.",
+    "cta": "New bill"
+  }
+}

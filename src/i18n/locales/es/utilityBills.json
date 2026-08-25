@@ -1,0 +1,57 @@
+{
+  "title": "Facturas de servicios",
+  "subtitle": "Registra facturas de luz o agua y genera los cargos proporcionales por inquilino.",
+  "new": "Nueva factura",
+  "filters": {
+    "service": "Servicio",
+    "period": "Periodo",
+    "property": "Propiedad",
+    "status": "Estado",
+    "all": "Todos",
+    "allServices": "Todos los servicios",
+    "allProperties": "Todas las propiedades"
+  },
+  "columns": {
+    "period": "Periodo",
+    "service": "Servicio",
+    "provider": "Proveedor",
+    "consumption": "Consumo",
+    "amount": "Importe",
+    "dueDate": "Vencimiento",
+    "status": "Estado"
+  },
+  "form": {
+    "property": "Propiedad",
+    "type": "Tipo de servicio",
+    "period": "Periodo (AAAA-MM)",
+    "consumption": "Consumo",
+    "totalAmount": "Monto total (S/)",
+    "previousReading": "Lectura anterior",
+    "currentReading": "Lectura actual",
+    "dueDate": "Fecha de vencimiento",
+    "meterCode": "Código de medidor",
+    "supplyNumber": "N.º de suministro",
+    "provider": "Proveedor",
+    "submit": "Crear factura"
+  },
+  "detail": {
+    "title": "Detalle de factura",
+    "breakdown": "Composición del importe",
+    "consumptionAmount": "Cargo por consumo",
+    "fixedCharge": "Cargo fijo",
+    "additionalCharges": "Cargos adicionales",
+    "taxAmount": "Impuestos",
+    "lateFee": "Mora",
+    "total": "Total"
+  },
+  "generateCharges": "Generar cargos",
+  "generating": "Generando…",
+  "alreadyGenerated": "Los cargos de esta factura ya fueron generados",
+  "generatedSuccess": "Cargos generados: {{count}} inquilino(s) por un total de {{amount}}.",
+  "createdSuccess": "Factura creada correctamente.",
+  "empty": {
+    "title": "No hay facturas registradas",
+    "body": "Crea una factura para poder calcular los cargos proporcionales.",
+    "cta": "Nueva factura"
+  }
+}

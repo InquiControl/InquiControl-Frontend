@@ -1,0 +1,30 @@
+{
+  "title": "Payments",
+  "subtitle": "Every charge is paid once, in full.",
+  "registerTitle": "Record payment",
+  "selectCharge": "Pending charge",
+  "selectChargePlaceholder": "Select a charge",
+  "amountLabel": "Amount to pay",
+  "singlePaymentNotice": "This charge must be paid in a single payment. The amount cannot be changed.",
+  "date": "Payment date",
+  "notes": "Notes (optional)",
+  "submit": "Record payment",
+  "submitting": "Recording…",
+  "success": "Payment recorded successfully. Charge #{{id}} is now paid.",
+  "history": "Payment history",
+  "columns": {
+    "id": "#",
+    "charge": "Charge",
+    "date": "Date",
+    "amount": "Amount",
+    "notes": "Notes"
+  },
+  "errors": {
+    "mustSelectCharge": "Select a pending charge."
+  },
+  "empty": {
+    "title": "No payments recorded yet",
+    "body": "Payments will show up here once you record the first one.",
+    "noPendingCharges": "There are no pending charges to pay right now."
+  }
+}

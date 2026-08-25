@@ -1,0 +1,30 @@
+{
+  "title": "Charges",
+  "subtitle": "Charges generated proportionally to each tenant's consumption.",
+  "filters": {
+    "all": "All",
+    "pending": "Pending",
+    "paid": "Paid"
+  },
+  "columns": {
+    "id": "#",
+    "tenant": "Tenant",
+    "bill": "Bill",
+    "method": "Method",
+    "amount": "Amount",
+    "status": "Status"
+  },
+  "detail": {
+    "title": "Charge detail",
+    "amount": "Amount",
+    "status": "Status",
+    "tenant": "Tenant",
+    "relatedBill": "Related bill",
+    "period": "Period"
+  },
+  "registerPayment": "Record payment",
+  "empty": {
+    "title": "No charges match this filter",
+    "body": "Generate charges from a utility bill to see them here."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Medidores",
+  "subtitle": "Medidores de electricidad y agua por propiedad y unidad.",
+  "columns": {
+    "code": "Código",
+    "type": "Tipo",
+    "provider": "Proveedor",
+    "unit": "Unidad de medida",
+    "property": "Propiedad",
+    "location": "Unidad",
+    "mode": "Modo"
+  },
+  "generalLocation": "Medidor general",
+  "empty": {
+    "title": "No hay medidores registrados",
+    "body": "Los medidores se usan para calcular el consumo de cada inquilino."
+  },
+  "viewReadings": "Ver lecturas",
+  "unavailable": {
+    "title": "Módulo de medidores no disponible",
+    "body": "El backend todavía no expone los endpoints /api/meters. Esta pantalla está lista para conectarse en cuanto existan."
+  }
+}

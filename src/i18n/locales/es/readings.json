@@ -1,0 +1,37 @@
+{
+  "title": "Lecturas",
+  "subtitle": "Registra y consulta el consumo de cada medidor.",
+  "currentReading": "Lectura actual",
+  "previousReading": "Lectura anterior",
+  "consumption": "Consumo",
+  "date": "Fecha",
+  "register": "Registrar lectura",
+  "history": "Historial de lecturas",
+  "chartTitle": "Evolución del consumo",
+  "form": {
+    "meter": "Medidor",
+    "reading": "Lectura",
+    "date": "Fecha",
+    "photo": "Fotografía (opcional)",
+    "photoHint": "Solo referencia local; todavía no se envía al backend.",
+    "submit": "Guardar lectura"
+  },
+  "preview": {
+    "previous": "Lectura anterior: {{value}} {{unit}}",
+    "current": "Nueva lectura: {{value}} {{unit}}",
+    "consumption": "Consumo: {{value}} {{unit}}"
+  },
+  "errors": {
+    "lowerThanPrevious": "La lectura no puede ser menor que la lectura anterior.",
+    "selectMeter": "Selecciona un medidor."
+  },
+  "empty": {
+    "title": "No hay lecturas registradas",
+    "body": "Registra la primera lectura de este medidor para comenzar a controlar el consumo.",
+    "cta": "Registrar lectura"
+  },
+  "unavailable": {
+    "title": "Módulo de lecturas no disponible",
+    "body": "El backend todavía no expone los endpoints /api/meter-readings. Esta pantalla está lista para conectarse en cuanto existan."
+  }
+}

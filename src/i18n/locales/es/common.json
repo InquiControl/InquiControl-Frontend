@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "InquiControl",
+    "tagline": "Control de propiedades en alquiler"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "properties": "Propiedades",
+    "units": "Unidades",
+    "tenants": "Inquilinos",
+    "meters": "Medidores",
+    "readings": "Lecturas",
+    "utilityBills": "Facturas",
+    "charges": "Cargos",
+    "payments": "Pagos",
+    "collapse": "Contraer menú",
+    "expand": "Expandir menú"
+  },
+  "actions": {
+    "save": "Guardar",
+    "saveChanges": "Guardar cambios",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "create": "Crear",
+    "close": "Cerrar",
+    "back": "Volver",
+    "confirm": "Confirmar",
+    "yes": "Sí",
+    "no": "No",
+    "viewDetail": "Ver detalle",
+    "retry": "Reintentar",
+    "seeAll": "Ver todas",
+    "search": "Buscar"
+  },
+  "status": {
+    "PENDING": "Pendiente",
+    "PAID": "Pagado",
+    "ACTIVE": "Activo",
+    "INACTIVE": "Inactivo",
+    "AVAILABLE": "Disponible",
+    "OCCUPIED": "Ocupado"
+  },
+  "serviceType": {
+    "ELECTRICITY": "Electricidad",
+    "WATER": "Agua"
+  },
+  "meterMode": {
+    "shared": "Compartido",
+    "individual": "Individual"
+  },
+  "feedback": {
+    "loading": "Cargando…",
+    "saving": "Guardando…",
+    "networkError": "No se pudo conectar con el servidor.",
+    "genericError": "Ocurrió un error inesperado. Intenta de nuevo.",
+    "sessionExpired": "Tu sesión expiró. Inicia sesión nuevamente.",
+    "confirmDeleteTitle": "¿Eliminar este registro?",
+    "confirmDeleteBody": "Esta acción no se puede deshacer.",
+    "unsavedChanges": "Tienes cambios sin guardar."
+  },
+  "emptyState": {
+    "defaultTitle": "No hay información todavía",
+    "defaultBody": "Cuando agregues datos, aparecerán aquí."
+  },
+  "language": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "table": {
+    "actions": "Acciones"
+  }
+}

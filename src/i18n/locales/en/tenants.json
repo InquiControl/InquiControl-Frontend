@@ -1,0 +1,33 @@
+{
+  "title": "Tenants",
+  "subtitle": "Check your tenants, their unit and payment status.",
+  "columns": {
+    "name": "Name",
+    "unit": "Unit",
+    "status": "Status",
+    "pendingCharges": "Pending charges",
+    "paymentsMade": "Payments made"
+  },
+  "empty": {
+    "title": "No tenants registered",
+    "body": "Register tenants from each unit's detail page."
+  },
+  "form": {
+    "name": "First name",
+    "lastname": "Last name",
+    "dni": "National ID",
+    "phone": "Phone",
+    "startDate": "Start date",
+    "endDate": "End date (optional)",
+    "status": "Status"
+  },
+  "detail": {
+    "back": "Back",
+    "personalInfo": "Personal information",
+    "unitInfo": "Unit",
+    "chargeHistory": "Charge history",
+    "paymentHistory": "Payment history",
+    "chargesEmpty": "This tenant doesn't have any charges yet.",
+    "paymentsEmpty": "This tenant doesn't have any recorded payments yet."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Meter readings",
+  "subtitle": "Register and review the consumption of each meter.",
+  "currentReading": "Current reading",
+  "previousReading": "Previous reading",
+  "consumption": "Consumption",
+  "date": "Date",
+  "register": "Register reading",
+  "history": "Reading history",
+  "chartTitle": "Consumption over time",
+  "form": {
+    "meter": "Meter",
+    "reading": "Reading",
+    "date": "Date",
+    "photo": "Photo (optional)",
+    "photoHint": "Local reference only; not sent to the backend yet.",
+    "submit": "Save reading"
+  },
+  "preview": {
+    "previous": "Previous reading: {{value}} {{unit}}",
+    "current": "New reading: {{value}} {{unit}}",
+    "consumption": "Consumption: {{value}} {{unit}}"
+  },
+  "errors": {
+    "lowerThanPrevious": "The reading cannot be lower than the previous reading.",
+    "selectMeter": "Select a meter."
+  },
+  "empty": {
+    "title": "No readings registered",
+    "body": "Register the first reading for this meter to start tracking consumption.",
+    "cta": "Register reading"
+  },
+  "unavailable": {
+    "title": "Readings module unavailable",
+    "body": "The backend doesn't expose the /api/meter-readings endpoints yet. This screen is ready to connect as soon as they exist."
+  }
+}

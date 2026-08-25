@@ -1,0 +1,30 @@
+{
+  "title": "Cargos",
+  "subtitle": "Cargos generados de forma proporcional al consumo de cada inquilino.",
+  "filters": {
+    "all": "Todos",
+    "pending": "Pendientes",
+    "paid": "Pagados"
+  },
+  "columns": {
+    "id": "#",
+    "tenant": "Inquilino",
+    "bill": "Factura",
+    "method": "Método",
+    "amount": "Importe",
+    "status": "Estado"
+  },
+  "detail": {
+    "title": "Detalle de cargo",
+    "amount": "Importe",
+    "status": "Estado",
+    "tenant": "Inquilino",
+    "relatedBill": "Factura relacionada",
+    "period": "Periodo"
+  },
+  "registerPayment": "Registrar pago",
+  "empty": {
+    "title": "No hay cargos que coincidan",
+    "body": "Genera cargos desde una factura de servicios para verlos aquí."
+  }
+}
